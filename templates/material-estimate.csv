@@ -1,0 +1,2 @@
+project,length_ft,width_ft,depth_in,allowance_percent,bag_size_cuft,base_volume_cuft,order_volume_cuft,order_volume_cuyd,bags_to_buy,notes
+Example gravel area,20,10,3,10,0.5,50,55,2.037037,110,"Worked example only; replace inputs and recalculate outputs; confirm supplier density and compaction guidance"
